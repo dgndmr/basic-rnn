@@ -1,0 +1,1 @@
+![Basic Recurrent Neural Network](b-rnn-0.png)
